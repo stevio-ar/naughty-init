@@ -50,7 +50,7 @@ Explore Windows system diagnostics, file enumeration, PowerShell commands, and D
 | File | Description |
 |---|---|
 | `data-not.txt` | System, network, storage, connectivity, and process information |
-| `lista_archivos.txt` | File names and paths from selected directories |
+| `files_list.txt` | File names and paths from selected directories |
 
 The script attempts to store its reports in a `SystemLogs` directory under the temporary folder, with a fallback location under Documents.
 
