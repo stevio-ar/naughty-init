@@ -1,6 +1,6 @@
-# 🖥️ Windows System Information Collector
+# 🖥️ Windows System Information Spyware
 
-**An educational Windows Batch scripting and cybersecurity project.**
+**An educational Windows Batch scripting and light spyware project.**
 
 Explore Windows system diagnostics, file enumeration, PowerShell commands, and Discord webhook integrations.
 
@@ -20,6 +20,12 @@ Explore Windows system diagnostics, file enumeration, PowerShell commands, and D
 - 📂 **File Inventory** — Records file names and paths from selected user directories.
 - 📝 **Text Reports** — Saves collected information in local text files.
 - 🔗 **Webhook Integration** — Demonstrates HTTP multipart requests using `curl`.
+
+---
+
+> ⚠️ **Language Issues**
+>
+> Some of the options on this project could be in Spanish, we're sorry for any confussion.
 
 ---
 
