@@ -1,6 +1,6 @@
 :: READ THE README.txt FILE BEFORE USING THIS SCRIPT. IT CONTAINS IMPORTANT INFORMATION ABOUT THE SCRIPT'S FUNCTIONALITY AND POTENTIAL RISKS.
 @echo off
-:: Reemplace the variable "PUT_THE_WINDOW_TITLE_THAT_YOU_WANT" with the title you want that apears in the cmd window.
+:: Reeplace the variable "PUT_THE_WINDOW_TITLE_THAT_YOU_WANT" with the title you want that appears in the cmd window.
 title "PUT_THE_WINDOW_TITLE_THAT_YOU_WANT"
 
 :: Defines the webhook endpoint used for HTTP communication.
