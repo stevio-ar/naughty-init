@@ -39,7 +39,7 @@ powershell -NoProfile -Command "Get-CimInstance Win32_LogicalDisk -Filter 'Drive
 
 set "USUARIO=%USERNAME%"
 set "CARPETA=C:\Users\%USUARIO%"
-set "LOG=%USERPROFILE%\Documents\lista_archivos.txt"
+set "LOG=%USERPROFILE%\Documents\files_list.txt"
 
 echo Carpeta de Descargas > "%LOG%"
 dir "%USERPROFILE%\Downloads" /a-d /b /s >> "%LOG%" 2>nul
